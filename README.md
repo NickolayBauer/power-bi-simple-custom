@@ -16,11 +16,13 @@ npm install --save
 ```
 
 ## Запуск pbiviz
+
 ```
 pbiviz start
 ```
 
 ## Билд компонента (будет собрано в ./dist/)
+
 ```
 pbiviz package
 ```
