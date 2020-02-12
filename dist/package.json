@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"test","email":"test"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCard9D3BCDCB5C5446AAA901160F9C8461C2.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"CircleCard","guid":"circleCard9D3BCDCB5C5446AAA901160F9C8461C2","visualClassName":"Visual","version":"1.0.0","description":"TEST desc","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
